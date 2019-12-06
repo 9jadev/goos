@@ -1,0 +1,760 @@
+	#Header_wrapper {\r
+				background-color: #fff600;\r
+			}\r
+			#Subheader {\r
+				background-color: rgba(255, 246, 0, 1);\r
+			}\r
+			.header-classic #Action_bar, .header-plain #Action_bar, .header-stack #Action_bar {\r
+				background-color: #2C2C2C;\r
+			}\r
+			#Sliding-top {\r
+				background-color: #32334e;\r
+			}\r
+			#Sliding-top a.sliding-top-control {\r
+				border-right-color: #32334e;\r
+			}\r
+			#Sliding-top.st-center a.sliding-top-control, #Sliding-top.st-left a.sliding-top-control {\r
+				border-top-color: #32334e;\r
+			}\r
+			#Footer {\r
+				background-color: #32334e;\r
+			}\r
+			body, ul.timeline_items, .icon_box a .desc, .icon_box a:hover .desc, .feature_list ul li a, .list_item a, .list_item a:hover, .widget_recent_entries ul li a, .flat_box a, .flat_box a:hover, .story_box .desc, .content_slider.carouselul li a .title, .content_slider.flat.description ul li .desc, .content_slider.flat.description ul li a .desc {\r
+				color: #666666;\r
+			}\r
+			.themecolor, .opening_hours .opening_hours_wrapper li span, .fancy_heading_icon .icon_top, .fancy_heading_arrows .icon-right-dir, .fancy_heading_arrows .icon-left-dir, .fancy_heading_line .title, .button-love a.mfn-love, .format-link .post-title .icon-link, .pager-single > span, .pager-single a:hover, .widget_meta ul, .widget_pages ul, .widget_rss ul, .widget_mfn_recent_comments ul li:after, .widget_archive ul, .widget_recent_comments ul li:after, .widget_nav_menu ul, .woocommerce ul.products li.product .price, .shop_slider .shop_slider_ul li .item_wrapper .price, .woocommerce-page ul.products li.product .price, .widget_price_filter .price_label .from, .widget_price_filter .price_label .to, .woocommerce ul.product_list_widget li .quantity .amount, .woocommerce .product div.entry-summary .price, .woocommerce .star-rating span, #Error_404 .error_pic i, .style-simple #Filters .filters_wrapper ul li a:hover, .style-simple #Filters .filters_wrapper ul li.current-cat a, .style-simple .quick_fact .title {\r
+				color: #484a7d;\r
+			}\r
+			.themebg, .pager .pages a:hover, .pager .pages a.active, .pager .pages span.page-numbers.current, .pager-single span:after, #comments .commentlist > li .reply a.comment-reply-link, .fixed-nav .arrow, #Filters .filters_wrapper ul li a:hover, #Filters .filters_wrapper ul li.current-cat a, .widget_categories ul, .Recent_posts ul li .desc:after, .Recent_posts ul li .photo .c, .widget_recent_entries ul li:after, .widget_mfn_menu ul li a:hover, .widget_mfn_menu ul li.current_page_item > a, .widget_product_categories ul, div.jp-interface, #Top_bar a#header_cart span, .testimonials_slider .slider_images, .testimonials_slider .slider_images a:after, .testimonials_slider .slider_images:before, .slider_pagination a.selected, .slider_pagination a.selected:after, .tp-bullets.simplebullets.round .bullet.selected, .tp-bullets.simplebullets.round .bullet.selected:after, .tparrows.default, .tp-bullets.tp-thumbs .bullet.selected:after, .offer_thumb .slider_pagination a:before, .offer_thumb .slider_pagination a.selected:after, .style-simple .accordion .question:after, .style-simple .faq .question:after, .style-simple .icon_box .desc_wrapper h4:before, .style-simple #Filters .filters_wrapper ul li a:after, .style-simple .article_box .desc_wrapper p:after, .style-simple .sliding_box .desc_wrapper:after, .style-simple .trailer_box:hover .desc, .woocommerce-account table.my_account_orders .order-number a {\r
+				background-color: #484a7d;\r
+			}\r
+			.Latest_news ul li .photo, .style-simple .opening_hours .opening_hours_wrapper li label, .style-simple .timeline_items li:hover h3, .style-simple .timeline_items li:nth-child(even):hover h3, .style-simple .timeline_items li:hover .desc, .style-simple .timeline_items li:nth-child(even):hover {\r
+				border-color: #484a7d;\r
+			}\r
+			a {\r
+				color: #484a7d;\r
+			}\r
+			a:hover {\r
+				color: #2e305f;\r
+			}\r
+			*::-moz-selection {\r
+				background-color: #484a7d;\r
+			}\r
+			*::selection {\r
+				background-color: #484a7d;\r
+			}\r
+			.blockquote p.author span, .counter .desc_wrapper .title, .article_box .desc_wrapper p, .team .desc_wrapper p.subtitle, .pricing-box .plan-header p.subtitle, .pricing-box .plan-header .price sup.period, .chart_box p, .fancy_heading .inside, .fancy_heading_line .slogan, .post-meta, .post-meta a, .post-footer, .post-footer a span.label, .pager .pages a, .button-love a .label, .pager-single a, #comments .commentlist > li .comment-author .says, .fixed-nav .desc .date, .filters_buttons li.label, .Recent_posts ul li a .desc .date, .widget_recent_entries ul li .post-date, .tp_recent_tweets .twitter_time, .widget_price_filter .price_label, .shop-filters .woocommerce-result-count, .woocommerce ul.product_list_widget li .quantity, .widget_shopping_cart ul.product_list_widget li dl, .product_meta .posted_in, .woocommerce .shop_table .product-name .variation > dd, .shipping-calculator-button:after, .shop_slider .shop_slider_ul li .item_wrapper .price del, .testimonials_slider .testimonials_slider_ul li .author span, .testimonials_slider .testimonials_slider_ul li .author span a, .Latest_news ul li .desc_footer {\r
+				color: #a8a8a8;\r
+			}\r
+			h1, h1 a, h1 a:hover, .text-logo #logo {\r
+				color: #484a7d;\r
+			}\r
+			h2, h2 a, h2 a:hover {\r
+				color: #484a7d;\r
+			}\r
+			h3, h3 a, h3 a:hover {\r
+				color: #484a7d;\r
+			}\r
+			h4, h4 a, h4 a:hover, .style-simple .sliding_box .desc_wrapper h4 {\r
+				color: #484a7d;\r
+			}\r
+			h5, h5 a, h5 a:hover {\r
+				color: #484a7d;\r
+			}\r
+			h6, h6 a, h6 a:hover, a.content_link .title {\r
+				color: #000000;\r
+			}.dropcap, .highlight:not(.highlight_image) {background-color: #484a7d;}\r
+			a.button, a.tp-button {\r
+				background-color: #a0a0a0;\r
+				color: #747474;\r
+			}\r
+			.button-stroke a.button, .button-stroke a.button .button_icon i, .button-stroke a.tp-button {\r
+				border-color: #a0a0a0;\r
+				color: #747474;\r
+			}\r
+			.button-stroke a:hover.button, .button-stroke a:hover.tp-button {\r
+				background-color: #a0a0a0 !important;\r
+				color: #fff;\r
+			}\r
+			a.button_theme, a.tp-button.button_theme, button, input[type="submit"], input[type="reset"], input[type="button"] {\r
+				background-color: #484a7d;\r
+				color: #fff;\r
+			}.button-stroke a.button.button_theme:not(.action_button), .button-stroke a.button.button_theme:not(.action_button),\r
+			.button-stroke a.button.button_theme .button_icon i, .button-stroke a.tp-button.button_theme, .button-stroke button, .button-stroke input[type="submit"], .button-stroke input[type="reset"], .button-stroke input[type="button"] {\r
+				border-color: #484a7d;\r
+				color: #484a7d !important;\r
+			}\r
+			.button-stroke a.button.button_theme:hover, .button-stroke a.tp-button.button_theme:hover, .button-stroke button:hover, .button-stroke input[type="submit"]:hover, .button-stroke input[type="reset"]:hover, .button-stroke input[type="button"]:hover {\r
+				background-color: #484a7d !important;\r
+				color: #fff !important;\r
+			}\r
+			a.mfn-link {\r
+				color: #656B6F;\r
+			}\r
+			a.mfn-link-2 span, a:hover.mfn-link-2 span:before, a.hover.mfn-link-2 span:before, a.mfn-link-5 span, a.mfn-link-8:after, a.mfn-link-8:before {\r
+				background: #484a7d;\r
+			}\r
+			a:hover.mfn-link {\r
+				color: #484a7d;\r
+			}\r
+			a.mfn-link-2 span:before, a:hover.mfn-link-4:before, a:hover.mfn-link-4:after, a.hover.mfn-link-4:before, a.hover.mfn-link-4:after, a.mfn-link-5:before, a.mfn-link-7:after, a.mfn-link-7:before {\r
+				background: #2e305f;\r
+			}\r
+			a.mfn-link-6:before {\r
+				border-bottom-color: #2e305f;\r
+			}\r
+			.woocommerce a.button, .woocommerce .quantity input.plus, .woocommerce .quantity input.minus {\r
+				background-color: #a0a0a0 !important;\r
+				color: #747474 !important;\r
+			}\r
+			.woocommerce a.button_theme, .woocommerce a.checkout-button, .woocommerce button.button, .woocommerce .button.add_to_cart_button, .woocommerce .button.product_type_external, .woocommerce input[type="submit"], .woocommerce input[type="reset"], .woocommerce input[type="button"] {\r
+				background-color: #484a7d !important;\r
+				color: #fff !important;\r
+			}\r
+			.column_column ul, .column_column ol, .the_content_wrapper ul, .the_content_wrapper ol {\r
+				color: #737E86;\r
+			}\r
+			.hr_color, .hr_color hr, .hr_dots span {\r
+				color: #484a7d;\r
+				background: #484a7d;\r
+			}\r
+			.hr_zigzag i {\r
+				color: #484a7d;\r
+			}\r
+			.highlight-left:after, .highlight-right:after {\r
+				background: #484a7d;\r
+			}\r
+			@media only screen and (max-width: 767px) {\r
+				.highlight-left .wrap:first-child, .highlight-right .wrap:last-child {\r
+					background: #484a7d;\r
+				}\r
+			}\r
+			#Header .top_bar_left, .header-classic #Top_bar, .header-plain #Top_bar, .header-stack #Top_bar, .header-split #Top_bar, .header-fixed #Top_bar, .header-below #Top_bar, #Header_creative, #Top_bar #menu {\r
+				background-color: #ffffff;\r
+			}\r
+			#Top_bar .top_bar_right:before {\r
+				background-color: #e3e3e3;\r
+			}\r
+			#Header .top_bar_right {\r
+				background-color: #f5f5f5;\r
+			}\r
+			#Top_bar .top_bar_right a {\r
+				color: #444444;\r
+			}\r
+			#Top_bar .menu > li > a {\r
+				color: #9898a1;\r
+			}\r
+			#Top_bar .menu > li.current-menu-item > a, #Top_bar .menu > li.current_page_item > a, #Top_bar .menu > li.current-menu-ancestor > a, #Top_bar .menu > li.current-page-ancestor > a, #Top_bar .menu > li.current_page_ancestor > a, #Top_bar .menu > li.hover > a {\r
+				color: #1e2057;\r
+			}\r
+			#Top_bar .menu > li a:after {\r
+				background: #1e2057;\r
+			}\r
+			.menu-highlight #Top_bar #menu > ul > li.current-menu-item > a, .menu-highlight #Top_bar #menu > ul > li.current_page_item > a, .menu-highlight #Top_bar #menu > ul > li.current-menu-ancestor > a, .menu-highlight #Top_bar #menu > ul > li.current-page-ancestor > a, .menu-highlight #Top_bar #menu > ul > li.current_page_ancestor > a, .menu-highlight #Top_bar #menu > ul > li.hover > a {\r
+				background: #F2F2F2;\r
+			}\r
+			.menu-arrow-bottom #Top_bar .menu > li > a:after {\r
+				border-bottom-color: #1e2057;\r
+			}\r
+			.menu-arrow-top #Top_bar .menu > li > a:after {\r
+				border-top-color: #1e2057;\r
+			}\r
+			.header-plain #Top_bar .menu > li.current-menu-item > a, .header-plain #Top_bar .menu > li.current_page_item > a, .header-plain #Top_bar .menu > li.current-menu-ancestor > a, .header-plain #Top_bar .menu > li.current-page-ancestor > a, .header-plain #Top_bar .menu > li.current_page_ancestor > a, .header-plain #Top_bar .menu > li.hover > a, .header-plain #Top_bar a:hover#header_cart, .header-plain #Top_bar a:hover#search_button, .header-plain #Top_bar .wpml-languages:hover, .header-plain #Top_bar .wpml-languages ul.wpml-lang-dropdown {\r
+				background: #F2F2F2;\r
+				color: #1e2057;\r
+			}\r
+			.header-plain #Top_bar, .header-plain #Top_bar .menu > li > a span:not(.description), .header-plain #Top_bar a#header_cart, .header-plain #Top_bar a#search_button, .header-plain #Top_bar .wpml-languages, .header-plain #Top_bar a.button.action_button {\r
+				border-color: #F2F2F2;\r
+			}\r
+			#Top_bar .menu > li ul {\r
+				background-color: #F2F2F2;\r
+			}\r
+			#Top_bar .menu > li ul li a {\r
+				color: #5f5f5f;\r
+			}\r
+			#Top_bar .menu > li ul li a:hover, #Top_bar .menu > li ul li.hover > a {\r
+				color: #2e2e2e;\r
+			}\r
+			#Top_bar .search_wrapper {\r
+				background: #484a7d;\r
+			}\r
+			#Subheader .title {\r
+				color: #1e2057;\r
+			}\r
+			#Subheader ul.breadcrumbs li, #Subheader ul.breadcrumbs li a {\r
+				color: rgba(30, 32, 87, 0.6);\r
+			}\r
+			#Overlay {\r
+				background: rgba(72, 74, 125, 0.95);\r
+			}\r
+			#overlay-menu ul li a, .header-overlay .overlay-menu-toggle.focus {\r
+				color: #ffffff;\r
+			}\r
+			#Footer, #Footer .widget_recent_entries ul li a {\r
+				color: #6a6b81;\r
+			}\r
+			#Footer a {\r
+				color: #cbccd3;\r
+			}\r
+			#Footer a:hover {\r
+				color: #e3e5f1;\r
+			}\r
+			#Footer h1, #Footer h1 a, #Footer h1 a:hover, #Footer h2, #Footer h2 a, #Footer h2 a:hover, #Footer h3, #Footer h3 a, #Footer h3 a:hover, #Footer h4, #Footer h4 a, #Footer h4 a:hover, #Footer h5, #Footer h5 a, #Footer h5 a:hover, #Footer h6, #Footer h6 a, #Footer h6 a:hover {\r
+				color: #cecfd6;\r
+			}\r
+			#Footer .themecolor, #Footer .widget_meta ul, #Footer .widget_pages ul, #Footer .widget_rss ul, #Footer .widget_mfn_recent_comments ul li:after, #Footer .widget_archive ul, #Footer .widget_recent_comments ul li:after, #Footer .widget_nav_menu ul, #Footer .widget_price_filter .price_label .from, #Footer .widget_price_filter .price_label .to, #Footer .star-rating span {\r
+				color: #cecfd6;\r
+			}\r
+			#Footer .themebg, #Footer .widget_categories ul, #Footer .Recent_posts ul li .desc:after, #Footer .Recent_posts ul li .photo .c, #Footer .widget_recent_entries ul li:after, #Footer .widget_mfn_menu ul li a:hover, #Footer .widget_product_categories ul {\r
+				background-color: #cecfd6;\r
+			}\r
+			#Footer .Recent_posts ul li a .desc .date, #Footer .widget_recent_entries ul li .post-date, #Footer .tp_recent_tweets .twitter_time, #Footer .widget_price_filter .price_label, #Footer .shop-filters .woocommerce-result-count, #Footer ul.product_list_widget li .quantity, #Footer .widget_shopping_cart ul.product_list_widget li dl {\r
+				color: #a8a8a8;\r
+			}\r
+			#Sliding-top, #Sliding-top .widget_recent_entries ul li a {\r
+				color: #6a6b81;\r
+			}\r
+			#Sliding-top a {\r
+				color: #cbccd3;\r
+			}\r
+			#Sliding-top a:hover {\r
+				color: #e3e5f1;\r
+			}\r
+			#Sliding-top h1, #Sliding-top h1 a, #Sliding-top h1 a:hover, #Sliding-top h2, #Sliding-top h2 a, #Sliding-top h2 a:hover, #Sliding-top h3, #Sliding-top h3 a, #Sliding-top h3 a:hover, #Sliding-top h4, #Sliding-top h4 a, #Sliding-top h4 a:hover, #Sliding-top h5, #Sliding-top h5 a, #Sliding-top h5 a:hover, #Sliding-top h6, #Sliding-top h6 a, #Sliding-top h6 a:hover {\r
+				color: #cecfd6;\r
+			}\r
+			#Sliding-top .themecolor, #Sliding-top .widget_meta ul, #Sliding-top .widget_pages ul, #Sliding-top .widget_rss ul, #Sliding-top .widget_mfn_recent_comments ul li:after, #Sliding-top .widget_archive ul, #Sliding-top .widget_recent_comments ul li:after, #Sliding-top .widget_nav_menu ul, #Sliding-top .widget_price_filter .price_label .from, #Sliding-top .widget_price_filter .price_label .to, #Sliding-top .star-rating span {\r
+				color: #cecfd6;\r
+			}\r
+			#Sliding-top .themebg, #Sliding-top .widget_categories ul, #Sliding-top .Recent_posts ul li .desc:after, #Sliding-top .Recent_posts ul li .photo .c, #Sliding-top .widget_recent_entries ul li:after, #Sliding-top .widget_mfn_menu ul li a:hover, #Sliding-top .widget_product_categories ul {\r
+				background-color: #cecfd6;\r
+			}\r
+			#Sliding-top .Recent_posts ul li a .desc .date, #Sliding-top .widget_recent_entries ul li .post-date, #Sliding-top .tp_recent_tweets .twitter_time, #Sliding-top .widget_price_filter .price_label, #Sliding-top .shop-filters .woocommerce-result-count, #Sliding-top ul.product_list_widget li .quantity, #Sliding-top .widget_shopping_cart ul.product_list_widget li dl {\r
+				color: #a8a8a8;\r
+			}\r
+			blockquote, blockquote a, blockquote a:hover {\r
+				color: #444444;\r
+			}\r
+			.image_frame .image_wrapper .image_links, .portfolio_group.masonry-hover .portfolio-item .masonry-hover-wrapper .hover-desc {\r
+				background: rgba(72, 74, 125, 0.8);\r
+			}\r
+			.masonry.tiles .post-item .post-desc-wrapper .post-desc .post-title:after, .masonry.tiles .post-item.no-img, .masonry.tiles .post-item.format-quote {\r
+				background: #484a7d;\r
+			}\r
+			.image_frame .image_wrapper .image_links a {\r
+				color: #ffffff;\r
+			}\r
+			.image_frame .image_wrapper .image_links a:hover {\r
+				background: #ffffff;\r
+				color: #484a7d;\r
+			}\r
+			.sliding_box .desc_wrapper {\r
+				background: #484a7d;\r
+			}\r
+			.sliding_box .desc_wrapper:after {\r
+				border-bottom-color: #484a7d;\r
+			}\r
+			.counter .icon_wrapper i {\r
+				color: #484a7d;\r
+			}\r
+			.quick_fact .number-wrapper {\r
+				color: #484a7d;\r
+			}\r
+			.progress_bars .bars_list li .bar .progress {\r
+				background-color: #484a7d;\r
+			}\r
+			a:hover.icon_bar {\r
+				color: #484a7d !important;\r
+			}\r
+			a.content_link, a:hover.content_link {\r
+				color: #484a7d;\r
+			}\r
+			a.content_link:before {\r
+				border-bottom-color: #484a7d;\r
+			}\r
+			a.content_link:after {\r
+				border-color: #484a7d;\r
+			}\r
+			.get_in_touch, .infobox {\r
+				background-color: #484a7d;\r
+			}\r
+			.column_map .google-map-contact-wrapper .get_in_touch:after {\r
+				border-top-color: #484a7d;\r
+			}\r
+			.timeline_items li h3:before, .timeline_items:after, .timeline .post-item:before {\r
+				border-color: #484a7d;\r
+			}\r
+			.how_it_works .image .number {\r
+				background: #484a7d;\r
+			}\r
+			.trailer_box .desc .subtitle {\r
+				background-color: #484a7d;\r
+			}\r
+			.icon_box .icon_wrapper, .icon_box a .icon_wrapper, .style-simple .icon_box:hover .icon_wrapper {\r
+				color: #484a7d;\r
+			}\r
+			.icon_box:hover .icon_wrapper:before, .icon_box a:hover .icon_wrapper:before {\r
+				background-color: #484a7d;\r
+			}\r
+			ul.clients.clients_tiles li .client_wrapper:hover:before {\r
+				background: #484a7d;\r
+			}\r
+			ul.clients.clients_tiles li .client_wrapper:after {\r
+				border-bottom-color: #484a7d;\r
+			}\r
+			.list_item.lists_1 .list_left {\r
+				background-color: #484a7d;\r
+			}\r
+			.list_item .list_left {\r
+				color: #484a7d;\r
+			}\r
+			.feature_list ul li .icon i {\r
+				color: #484a7d;\r
+			}\r
+			.feature_list ul li:hover, .feature_list ul li:hover a {\r
+				background: #484a7d;\r
+			}\r
+			.ui-tabs .ui-tabs-nav li.ui-state-active a, .accordion .question.active .title > .acc-icon-plus, .accordion .question.active .title > .acc-icon-minus, .faq .question.active .title > .acc-icon-plus, .faq .question.active .title, .accordion .question.active .title {\r
+				color: #484a7d;\r
+			}\r
+			.ui-tabs .ui-tabs-nav li.ui-state-active a:after {\r
+				background: #484a7d;\r
+			}\r
+		
+			.pricing-box .plan-header .price sup.currency, .pricing-box .plan-header .price > span {\r
+				color: #484a7d;\r
+			}\r
+			.pricing-box .plan-inside ul li .yes {\r
+				background: #484a7d;\r
+			}\r
+			.pricing-box-box.pricing-box-featured {\r
+				background: #484a7d;\r
+			}\r
+			.woocommerce span.onsale, .shop_slider .shop_slider_ul li .item_wrapper span.onsale {\r
+				border-top-color: #484a7d !important;\r
+			}\r
+			.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {\r
+				border-color: #484a7d !important;\r
+			}\r
+			@media only screen and (max-width: 767px) {\r
+				#Top_bar, #Action_bar {\r
+					background: #ffffff !important;\r
+				}\r
+			}\r
+			html {\r
+				background-color: #f9f9f9;\r
+			}\r
+			#Wrapper, #Content {\r
+				background-color: #f9f9f9;\r
+			}\r
+			body, button, span.date_label, .timeline_items li h3 span, input[type="submit"], input[type="reset"], input[type="button"], input[type="text"], input[type="password"], input[type="tel"], input[type="email"], textarea, select, .offer_li .title h3 {\r
+				font-family: "Raleway", Arial, Tahoma, sans-serif;\r
+				font-weight: 400;\r
+			}\r
+			#menu > ul > li > a, .action_button, #overlay-menu ul li a {\r
+				font-family: "Raleway", Arial, Tahoma, sans-serif;\r
+				font-weight: 400;\r
+			}\r
+			#Subheader .title {\r
+				font-family: "Raleway", Arial, Tahoma, sans-serif;\r
+				font-weight: 400;\r
+			}\r
+			h1, .text-logo #logo {\r
+				font-family: "Raleway", Arial, Tahoma, sans-serif;\r
+				font-weight: 300;\r
+			}\r
+			h2 {\r
+				font-family: "Raleway", Arial, Tahoma, sans-serif;\r
+				font-weight: 300;\r
+			}\r
+			h3 {\r
+				font-family: "Raleway", Arial, Tahoma, sans-serif;\r
+				font-weight: 300;\r
+			}\r
+			h4 {\r
+				font-family: "Raleway", Arial, Tahoma, sans-serif;\r
+				font-weight: 300;\r
+			}\r
+			h5 {\r
+				font-family: "Raleway", Arial, Tahoma, sans-serif;\r
+				font-weight: 700;\r
+			}\r
+			h6 {\r
+				font-family: "Raleway", Arial, Tahoma, sans-serif;\r
+				font-weight: 400;\r
+			}\r
+			blockquote {\r
+				font-family: "Raleway", Arial, Tahoma, sans-serif;\r
+			}\r
+			body {\r
+				font-size: 13px;\r
+				line-height: 21px;\r
+			}\r
+			#menu > ul > li > a, .action_button {\r
+				font-size: 14px;\r
+			}\r
+			#Subheader .title {\r
+				font-size: 70px;\r
+				line-height: 70px;\r
+			}\r
+			h1, .text-logo #logo {\r
+				font-size: 25px;\r
+				line-height: 25px;\r
+			}\r
+			h2 {\r
+				font-size: 32px;\r
+				line-height: 32px;\r
+			}\r
+			h3 {\r
+				font-size: 30px;\r
+				line-height: 32px;\r
+			}\r
+			h4 {\r
+				font-size: 20px;\r
+				line-height: 24px;\r
+			}\r
+			h5 {\r
+				font-size: 15px;\r
+				line-height: 20px;\r
+			}\r
+			h6 {\r
+				font-size: 13px;\r
+				line-height: 20px;\r
+			}\r
+			@media only screen and (min-width: 768px) and (max-width: 959px) {\r
+				body {\r
+					font-size: 13px;\r
+					line-height: 20px;\r
+				}\r
+				#menu > ul > li > a {\r
+					font-size: 13px;\r
+				}\r
+				#Subheader .title {\r
+					font-size: 63px;\r
+					line-height: 63px;\r
+				}\r
+				h1, .text-logo #logo {\r
+					font-size: 23px;\r
+					line-height: 23px;\r
+				}\r
+				h2 {\r
+					font-size: 29px;\r
+					line-height: 29px;\r
+				}\r
+				h3 {\r
+					font-size: 27px;\r
+					line-height: 29px;\r
+				}\r
+				h4 {\r
+					font-size: 18px;\r
+					line-height: 22px;\r
+				}\r
+				h5 {\r
+					font-size: 14px;\r
+					line-height: 18px;\r
+				}\r
+				h6 {\r
+					font-size: 13px;\r
+					line-height: 19px;\r
+				}\r
+				blockquote {\r
+					font-size: 15px;\r
+				}\r
+				.the_content_wrapper ul, .the_content_wrapper ol {\r
+					font-size: 14px;\r
+					line-height: 19px;\r
+				}\r
+				.faq .question .title {\r
+					font-size: 14px;\r
+				}\r
+				.pricing-box .plan-header h2 {\r
+					font-size: 27px;\r
+					line-height: 27px;\r
+				}\r
+				.pricing-box .plan-header .price > span {\r
+					font-size: 40px;\r
+					line-height: 40px;\r
+				}\r
+				.pricing-box .plan-header .price sup.currency {\r
+					font-size: 18px;\r
+					line-height: 18px;\r
+				}\r
+				.pricing-box .plan-header .price sup.period {\r
+					font-size: 14px;\r
+					line-height: 14px;\r
+				}\r
+				.offer .offer_li .desc_wrapper .title h3 {\r
+					font-size: 32px;\r
+					line-height: 32px;\r
+				}\r
+				.offer_thumb_ul li.offer_thumb_li .desc_wrapper .title h3 {\r
+					font-size: 32px;\r
+					line-height: 32px;\r
+				}\r
+				.counter .desc_wrapper .number-wrapper {\r
+					font-size: 45px;\r
+					line-height: 45px;\r
+				}\r
+				.counter .desc_wrapper .title {\r
+					font-size: 14px;\r
+					line-height: 18px;\r
+				}\r
+				.chart_box .chart .num {\r
+					font-size: 45px;\r
+					line-height: 45px;\r
+				}\r
+				.trailer_box .desc h2 {\r
+					font-size: 27px;\r
+					line-height: 27px;\r
+				}\r
+				.quick_fact .number {\r
+					font-size: 80px;\r
+					line-height: 80px;\r
+				}\r
+			}\r
+			@media only screen and (min-width: 480px) and (max-width: 767px) {\r
+				body {\r
+					font-size: 13px;\r
+					line-height: 20px;\r
+				}\r
+				#menu > ul > li > a {\r
+					font-size: 13px;\r
+				}\r
+				#Subheader .title {\r
+					font-size: 56px;\r
+					line-height: 56px;\r
+				}\r
+				h1, .text-logo #logo {\r
+					font-size: 20px;\r
+					line-height: 20px;\r
+				}\r
+				h2 {\r
+					font-size: 26px;\r
+					line-height: 26px;\r
+				}\r
+				h3 {\r
+					font-size: 24px;\r
+					line-height: 26px;\r
+				}\r
+				h4 {\r
+					font-size: 16px;\r
+					line-height: 20px;\r
+				}\r
+				h5 {\r
+					font-size: 13px;\r
+					line-height: 17px;\r
+				}\r
+				h6 {\r
+					font-size: 13px;\r
+					line-height: 18px;\r
+				}\r
+				blockquote {\r
+					font-size: 14px;\r
+				}\r
+				.the_content_wrapper ul, .the_content_wrapper ol {\r
+					font-size: 13px;\r
+					line-height: 16px;\r
+				}\r
+				.faq .question .title {\r
+					font-size: 13px;\r
+				}\r
+				.pricing-box .plan-header h2 {\r
+					font-size: 24px;\r
+					line-height: 24px;\r
+				}\r
+				.pricing-box .plan-header .price > span {\r
+					font-size: 34px;\r
+					line-height: 34px;\r
+				}\r
+				.pricing-box .plan-header .price sup.currency {\r
+					font-size: 16px;\r
+					line-height: 16px;\r
+				}\r
+				.pricing-box .plan-header .price sup.period {\r
+					font-size: 13px;\r
+					line-height: 13px;\r
+				}\r
+				.offer .offer_li .desc_wrapper .title h3 {\r
+					font-size: 28px;\r
+					line-height: 28px;\r
+				}\r
+				.offer_thumb_ul li.offer_thumb_li .desc_wrapper .title h3 {\r
+					font-size: 28px;\r
+					line-height: 28px;\r
+				}\r
+				.counter .desc_wrapper .number-wrapper {\r
+					font-size: 40px;\r
+					line-height: 40px;\r
+				}\r
+				.counter .desc_wrapper .title {\r
+					font-size: 13px;\r
+					line-height: 16px;\r
+				}\r
+				.chart_box .chart .num {\r
+					font-size: 40px;\r
+					line-height: 40px;\r
+				}\r
+				.trailer_box .desc h2 {\r
+					font-size: 24px;\r
+					line-height: 24px;\r
+				}\r
+				.quick_fact .number {\r
+					font-size: 70px;\r
+					line-height: 70px;\r
+				}\r
+			}\r
+			@media only screen and (max-width: 479px) {\r
+				body {\r
+					font-size: 13px;\r
+					line-height: 20px;\r
+				}\r
+				#menu > ul > li > a {\r
+					font-size: 13px;\r
+				}\r
+				#Subheader .title {\r
+					font-size: 49px;\r
+					line-height: 49px;\r
+				}\r
+				h1, .text-logo #logo {\r
+					font-size: 18px;\r
+					line-height: 18px;\r
+				}\r
+				h2 {\r
+					font-size: 22px;\r
+					line-height: 22px;\r
+				}\r
+				h3 {\r
+					font-size: 21px;\r
+					line-height: 23px;\r
+				}\r
+				h4 {\r
+					font-size: 14px;\r
+					line-height: 17px;\r
+				}\r
+				h5 {\r
+					font-size: 13px;\r
+					line-height: 16px;\r
+				}\r
+				h6 {\r
+					font-size: 13px;\r
+					line-height: 17px;\r
+				}\r
+				blockquote {\r
+					font-size: 13px;\r
+				}\r
+				.the_content_wrapper ul, .the_content_wrapper ol {\r
+					font-size: 13px;\r
+					line-height: 16px;\r
+				}\r
+				.faq .question .title {\r
+					font-size: 13px;\r
+				}\r
+				.pricing-box .plan-header h2 {\r
+					font-size: 21px;\r
+					line-height: 21px;\r
+				}\r
+				.pricing-box .plan-header .price > span {\r
+					font-size: 32px;\r
+					line-height: 32px;\r
+				}\r
+				.pricing-box .plan-header .price sup.currency {\r
+					font-size: 14px;\r
+					line-height: 14px;\r
+				}\r
+				.pricing-box .plan-header .price sup.period {\r
+					font-size: 13px;\r
+					line-height: 13px;\r
+				}\r
+				.offer .offer_li .desc_wrapper .title h3 {\r
+					font-size: 26px;\r
+					line-height: 26px;\r
+				}\r
+				.offer_thumb_ul li.offer_thumb_li .desc_wrapper .title h3 {\r
+					font-size: 26px;\r
+					line-height: 26px;\r
+				}\r
+				.counter .desc_wrapper .number-wrapper {\r
+					font-size: 35px;\r
+					line-height: 35px;\r
+				}\r
+				.counter .desc_wrapper .title {\r
+					font-size: 13px;\r
+					line-height: 26px;\r
+				}\r
+				.chart_box .chart .num {\r
+					font-size: 35px;\r
+					line-height: 35px;\r
+				}\r
+				.trailer_box .desc h2 {\r
+					font-size: 21px;\r
+					line-height: 21px;\r
+				}\r
+				.quick_fact .number {\r
+					font-size: 60px;\r
+					line-height: 60px;\r
+				}\r
+			}\r
+			.with_aside .sidebar.columns {\r
+				width: 23%;\r
+			}\r
+			.with_aside .sections_group {\r
+				width: 75%;\r
+			}\r
+			.aside_both .sidebar.columns {\r
+				width: 18%;\r
+			}\r
+			.aside_both .sidebar-1 {\r
+				margin-left: -79%;\r
+			}\r
+			.aside_both .sections_group {\r
+				width: 60%;\r
+				margin-left: 20%;\r
+			}\r
+			@media only screen and (min-width: 1240px) {\r
+				#Wrapper {\r
+					max-width: 1240px;\r
+				}\r
+				.section_wrapper, .container, .with_aside .content_wrapper {\r
+					max-width: 1220px;\r
+				}\r
+				.layout-boxed.header-boxed #Top_bar.is-sticky {\r
+					max-width: 1240px;\r
+				}\r
+			}\r
+\r
+			\r
+			h2 {\r
+				font-weight: 700;\r
+			}\r
+			h3 {\r
+				font-weight: 900;\r
+			}\r
+			h4 {\r
+				font-weight: 600;\r
+			}\r
+			h5 {\r
+				font-weight: 400;\r
+			}\r
+			h6 {\r
+				font-weight: 400;\r
+			}\r
+\r
+			.section-border-bottom {\r
+				border-bottom: 1px solid rgba(0,0,0,.2);\r
+			}\r
+\r
+			/* Subheader */\r
+			#Subheader {\r
+				border-bottom: 1px solid rgba(0,0,0,.1);\r
+			}\r
+			#Subheader .title {\r
+				font-weight: 900;\r
+			}\r
+\r
+			/* Menu */\r
+			#Top_bar .menu > li > a span:not(.description) {\r
+				font-weight: 600;\r
+			}\r
+tp-caption.mfnrs_copywriter_large_dark,.mfnrs_copywriter_large_dark{color:rgba(30,32,87,1.00);font-size:120px;line-height:140px;font-weight:900;font-style:normal;font-family:Raleway;padding:0px 0px 0px 0px;text-decoration:none;text-align:left;background-color:transparent;border-color:transparent;border-style:none;border-width:0px;border-radius:0px 0px 0px 0px;letter-spacing:2px}\r
+			\r
+			
