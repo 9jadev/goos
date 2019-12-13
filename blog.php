@@ -564,7 +564,7 @@ function googleTranslateElementInit() {
 							 This branch of Corner Stone Logistics Ltd. is also located in Califonia							<div class="contact-info">
 								<span><i class="fa fa-location-arrow"></i><strong> CORNER STONE LOGISTICS LTD.</strong><br>416 E Girard Ave apt c muscle shoals AL 35661 </span>
 								<span><i class="fa fa-phone"></i> +14242758608 </span>
-								<span><i class="fa fa-envelope"></i> info@ca.cornerstonelog.info    |    <br>billing@ca.cornerstonelog.info </span>
+								<span><i class="fa fa-envelope"></i> transcargo_ltd@mail.com</span>
 								<span><i class="fa fa-clock-o"></i>Mon - Sun  12.00 - 12.00</span>
 							</div>
 						</div>

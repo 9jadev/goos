@@ -784,7 +784,7 @@ print Invoice</button></a>
 							</div>
 						</div>
 					</div>
-					<div class="copy text-right"><a id="to-top" href="#this-is-top"><i class="fa fa-chevron-up"></i></a>&copy; 2018 <a href="#"> Trans Cargo Ltd.   </a>- All rights reserved.</div>
+					<div class="copy text-right"><a id="to-top" href="#this-is-top"><i class="fa fa-chevron-up"></i></a>&copy; 2020 <a href="#"> Trans Cargo Ltd.   </a>- All rights reserved.</div>
 				</div>
 			</footer>
 			<div ng-app="cmodule" ng-controller="BodyController">
@@ -904,6 +904,19 @@ notification.show();</script>
 	})
 </script>
 	</body>
+	<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5df3394143be710e1d21e89d/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
 </html> 	
 
 
